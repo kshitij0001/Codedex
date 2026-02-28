@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+tqdm
+scipy
+fuzzywuzzy
+python-Levenshtein
+pyarrow
+jupyter
+ipython

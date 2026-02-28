@@ -1,0 +1,17 @@
+# Ignore large raw data folders to speed up GitHub push
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
+state-wise total aadhar enrollment/
+outputs/
+.ipynb_checkpoints/
+*.csv
+*.parquet
+*.zip
+
+# Keep essential dashboard files
+!index.html
+!charts/
+!README.md
+!assets/
+!*.ipynb
